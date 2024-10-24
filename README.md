@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This repository contains the tool developed to fuzz Bluetooth Low Energy (BLE) GATT layer with over-the-air communication. It is based on attack scenarios which can be found on the related [paper](link/to/paper). The tool relies on the *[WHAD](https://whad.io)* framework and adheres to BLE specification version 4.2.
+This repository contains the tool developed to fuzz Bluetooth Low Energy (BLE) GATT layer with over-the-air communication. It is based on attack scenarios which can be found on the related [paper](https://github.com/quarkslab/conf-presentations/tree/master/Confs/Hardweario-NL-2024/2024-10-25-ble-gatt-fuzzing-paper-bboyer.pdf). The tool relies on the *[WHAD](https://whad.io)* framework and adheres to BLE specification version 4.2.
 
 Proof of Concepts for Denial of Service on Sony *WH-1000XM4* and *WF-1000XM4* are also provided.
 
-A blog post explaining the work that has been done can be found at https://blog.quarkslab.com/my_blogpost.html.
+A blog post explaining the work that has been done can be found at https://blog.quarkslab.com/bluetooth-low-energy-gatt-fuzzing.html.
 
 ## Installation
 
